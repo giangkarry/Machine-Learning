@@ -1,2 +1,2 @@
 # Machine-Learning
-Phân loại ảnh dữ liệu siêu âm tin
+Phân loại ảnh dữ liệu siêu âm tim
